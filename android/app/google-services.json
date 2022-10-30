@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1080053750429",
+    "firebase_url": "https://pfsystem-88e8b-default-rtdb.firebaseio.com",
+    "project_id": "pfsystem-88e8b",
+    "storage_bucket": "pfsystem-88e8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080053750429:android:fd3cb5abb9ad0f391d5274",
+        "android_client_info": {
+          "package_name": "com.example.pfs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1080053750429-t9bh1pkfvjnghgkh73pc05ia0oljmf0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsV526aSqhY2gHEOzRdItXmUCmVExQyaU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1080053750429-t9bh1pkfvjnghgkh73pc05ia0oljmf0d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1080053750429-9bn6vrmbhat1dmm218botn5sjiiuakrs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pfs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
